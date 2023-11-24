@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6605569adcc09204cbbacb4276e61366
+guid: af952a84d4cbd084c8e6c7f3d4bc8c61
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -7,23 +7,23 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Buttons
-    second: {fileID: 2100000, guid: 1948acbb080948d4c9f41a22536f2cc0, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: ButtonsDown
-    second: {fileID: 2100000, guid: e8aebad63c1c59c47919805aeab4e8f0, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Monitor
+      name: Box
     second: {fileID: 2100000, guid: b7ba35f921b6f5e499cef6b523872d5e, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Plastic
-    second: {fileID: 2100000, guid: 80332f56082e14049bf25c2dbf9d26ba, type: 2}
+      name: Buttons
+    second: {fileID: 2100000, guid: be7c10b9d97711c4fa9e2783621cb061, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ButtonsDown
+    second: {fileID: 2100000, guid: 1948acbb080948d4c9f41a22536f2cc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Monitor
+    second: {fileID: 2100000, guid: be7c10b9d97711c4fa9e2783621cb061, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2af7ba110da859d4faf176c8f3979151
+guid: 71811d60fe40260439b7160d97a6b1c6
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -33,7 +33,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: "\u0421arcase Icebox"
-    second: {fileID: 2100000, guid: 1948acbb080948d4c9f41a22536f2cc0, type: 2}
+    second: {fileID: 2100000, guid: 33d52a3eee3a398408accbedb7ec66ec, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
